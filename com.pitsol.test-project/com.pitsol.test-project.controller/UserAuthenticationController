@@ -3,4 +3,7 @@ public class UserAuthenticationController{
     public void viewPlan(){
     // code
     }
+    public void login(){
+    // code
+    }
 }
