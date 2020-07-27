@@ -1,0 +1,4 @@
+//@RestController("api/v1/premium/user")
+public class UserAuthenticationController{
+
+}
