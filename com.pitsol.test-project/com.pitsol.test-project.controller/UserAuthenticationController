@@ -1,5 +1,8 @@
 //@RestController("api/v1/premium/user")
 public class UserAuthenticationController{
+    public void viewPlan(){
+    // code
+    }
     public void login(){
     // code
     }
